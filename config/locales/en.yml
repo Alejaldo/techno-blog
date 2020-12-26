@@ -31,3 +31,11 @@
 
 en:
   hello: "Hello world"
+
+  posts:
+    new: "New post!"
+    submit_button: "Create post"
+    save_changes: "Save changes"
+
+  comments:
+    add: "Add comment"
